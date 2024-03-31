@@ -8,7 +8,7 @@ function App() {
  
   return (
     <UserContextProvider>
-     <h1>React with chai and quality learning</h1>     
+     <h1>React</h1>     
      <Login />
      <Profile />
     </UserContextProvider>
